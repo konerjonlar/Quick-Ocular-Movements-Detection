@@ -6,3 +6,4 @@ dependencies:
       - opencv-python
       - mediapipe
       - numpy
+      - openssl=1.1.1
