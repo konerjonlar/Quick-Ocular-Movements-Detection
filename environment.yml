@@ -1,6 +1,6 @@
 name: QOM
 dependencies:
-  - --upgrade --force-reinstall opensll=1.1.1
+  - opensll=1.1.1
   - python=3.9.7
   - pip
   - pip:
