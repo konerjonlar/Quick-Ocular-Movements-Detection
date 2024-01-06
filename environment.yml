@@ -1,6 +1,6 @@
 name: QOM
 dependencies:
-   - python=3.9.7 -y
+  - python=3.9.7 -y
   - pip
   - pip:
       - opencv-python
