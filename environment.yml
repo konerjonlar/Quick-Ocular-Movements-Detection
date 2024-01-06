@@ -1,6 +1,6 @@
 name: QOM
 dependencies:
-  - conda install -f openssl=1.1.23
+  - openssl=1.1.23
   - python=3.9.7
   - pip
   - pip:
